@@ -14,9 +14,11 @@
 
 ### サーバーの起動
 
+3000 番ポートにて listen します。
+
 ```shell
 $ yarn install
-$ node index.mjs
+$ node src/index.mjs
 ```
 
 ### ユーザーの作成
