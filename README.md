@@ -62,3 +62,7 @@ sapakan/sapakan を実装する際には、セッションを永続化するた�
 ## 参考にしたリポジトリ
 
 https://github.com/passport/todos-express-password（The Unlicense）
+
+## ライセンス
+
+[The Unlicense](https://unlicense.org/)

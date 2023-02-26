@@ -2,7 +2,7 @@
   "name": "express-passport-argon2-playground",
   "version": "1.0.0",
   "main": "src/index.mjs",
-  "license": "MIT",
+  "license": "Unlicense",
   "dependencies": {
     "argon2": "^0.30.3",
     "express": "^4.18.2",
