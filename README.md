@@ -58,3 +58,7 @@ passport と express-session の連携および SQLite3 を用いたセッショ
 各種エンドポイントを実装する際に、そのエンドポイントへアクセスしてくる人が認証している（すなわち、セッションが入ったクッキーをリクエストに乗せた状態である）ことを保証させることが可能となるので、ログイン中のユーザーに関する情報を返却するようなエンドポイントを作成することが可能となる。
 
 sapakan/sapakan を実装する際には、セッションを永続化するためのデータベースには PostgreSQL を用いて良いと考えており、そのためのスキーマは `schema.prisma` で表現したい。
+
+## 参考にしたリポジトリ
+
+https://github.com/passport/todos-express-password（The Unlicense）
